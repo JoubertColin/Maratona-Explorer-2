@@ -49,7 +49,7 @@ img.avatar {
   width: 100px;
   height: 100px;
   padding: 3.7px;
-  border: var(--primary-color-dark) solid 4px;
+  border: #00082F solid 4px;
 }
 
 h1 {
