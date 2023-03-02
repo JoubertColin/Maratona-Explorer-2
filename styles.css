@@ -50,7 +50,16 @@ img.avatar {
   width: 100px;
   height: 100px;
   padding: 3.7px;
-  border: #4263EB solid 4px;
+  border:  #4263EB solid 4px;/*#4263EB*/
+}
+
+
+img.avatar2 {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding: 3.7px;
+  border:  #00082F solid 4px;/*#00082F*/
 }
 
 h1 {
@@ -97,7 +106,7 @@ ul li a {
 }
 
 .container3 {
-  /*text-align: center;*/
+  text-align: center;
   width: 300px;
   margin-left: 0px;
   margin-right: 300px;
